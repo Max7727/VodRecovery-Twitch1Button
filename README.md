@@ -19,7 +19,7 @@ Click Load unpacked
 
 Select the "extension" folder.
 
-Go to any live Twitch stream and click on your new VodRec! button next to the Subsrcibe button.
+Go to any live Twitch stream and click on your new VodRec button next to the Subsrcibe button.
 
 
 <p align="center">
