@@ -21,4 +21,8 @@ Select the "extension" folder.
 
 Go to any live Twitch stream and click on your new VodRec! button next to the Subsrcibe button.
 
+
+<p align="center">
 <img src="\Screenshot_1.png" >
+</p>
+
