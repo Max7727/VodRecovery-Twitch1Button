@@ -19,7 +19,7 @@ Click Load unpacked
 
 Select the "extension" folder.
 
-Go to any live Twitch stream and click on your new VodRec button next to the Subsrcibe button. This will start recording the live-stream from the beginning.
+Go to any live Twitch stream and click on your new VodRec button next to the Subsrcibe button. This will start recording the live-stream from the beginning. After the stream is off, mp4 file will appear in your downloads folder.
 
 
 <p align="center">
