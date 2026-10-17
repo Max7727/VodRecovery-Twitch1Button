@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Twitch VodRecovery Launcher",
+    "version": "1.0",
+    "description": "Adds a button to record the current Twitch channel with VodRecovery",
+    "content_scripts": [
+        {
+            "matches": [
+                "https://www.twitch.tv/*"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "run_at": "document_idle"
+        }
+    ]
+}

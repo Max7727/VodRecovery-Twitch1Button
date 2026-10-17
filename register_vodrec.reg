@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\vodrec]
+@="URL:VodRecovery Protocol"
+"URL Protocol"=""
+
+[HKEY_CLASSES_ROOT\vodrec\shell]
+
+[HKEY_CLASSES_ROOT\vodrec\shell\open]
+
+[HKEY_CLASSES_ROOT\vodrec\shell\open\command]
+@="cmd.exe /k \"\"C:\\1) PROGRAM FILES\\!GitHub\\VodRecovery\\newerVer\\VodRecovery-1.5.11\\vod_launcher.bat\" \"%1\"\""
